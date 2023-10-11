@@ -1,0 +1,25 @@
+# Virtual Environment
+myenv/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variable file (if used)
+.env
+
+# Screenshot files (if generated during testing)
+screenshot/
+
+# Database files (if used for testing)
+database/
